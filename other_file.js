@@ -1,1 +1,3 @@
-console.log(name)
+var index = reference(./index.js)
+
+console.log('index.name')
